@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\ChuaLE2\ChuaBlogDB\bin\Debug\ChuaBlogDB.dacpac
+C:\Users\ADMIN\source\repos\ChuaLE2\ChuaBlogDB\bin\Debug\ChuaBlogDB.dll
+C:\Users\ADMIN\source\repos\ChuaLE2\ChuaBlogDB\bin\Debug\ChuaBlogDB.pdb
+C:\Users\ADMIN\source\repos\ChuaLE2\ChuaBlogDB\obj\Debug\ChuaBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\ChuaLE2\ChuaBlogDB\obj\Debug\Model.xml
+C:\Users\ADMIN\source\repos\ChuaLE2\ChuaBlogDB\obj\Debug\refactor.xml
+C:\Users\ADMIN\source\repos\ChuaLE2\ChuaBlogDB\obj\Debug\postdeploy.sql
+C:\Users\ADMIN\source\repos\ChuaLE2\ChuaBlogDB\obj\Debug\predeploy.sql
+C:\Users\ADMIN\source\repos\ChuaLE2\ChuaBlogDB\obj\Debug\ChuaBlogDB.dll
+C:\Users\ADMIN\source\repos\ChuaLE2\ChuaBlogDB\obj\Debug\ChuaBlogDB.pdb
